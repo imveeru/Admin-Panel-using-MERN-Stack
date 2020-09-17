@@ -1,0 +1,18 @@
+.title{
+  font-weight: bold;
+  padding-top: 25px;
+}
+.addbtn{
+ float: right;
+}
+
+.h4,.addbtn{
+  margin-bottom: 20px;
+}
+
+a{
+  cursor: pointer;
+}
+.title1{
+  font-weight: bold;
+}
